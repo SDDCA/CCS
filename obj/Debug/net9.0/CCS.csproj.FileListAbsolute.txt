@@ -1,0 +1,14 @@
+Z:\CDGS\CCS\bin\Debug\net9.0\CCS.exe
+Z:\CDGS\CCS\bin\Debug\net9.0\CCS.deps.json
+Z:\CDGS\CCS\bin\Debug\net9.0\CCS.runtimeconfig.json
+Z:\CDGS\CCS\bin\Debug\net9.0\CCS.dll
+Z:\CDGS\CCS\bin\Debug\net9.0\CCS.pdb
+Z:\CDGS\CCS\obj\Debug\net9.0\CCS.GeneratedMSBuildEditorConfig.editorconfig
+Z:\CDGS\CCS\obj\Debug\net9.0\CCS.AssemblyInfoInputs.cache
+Z:\CDGS\CCS\obj\Debug\net9.0\CCS.AssemblyInfo.cs
+Z:\CDGS\CCS\obj\Debug\net9.0\CCS.csproj.CoreCompileInputs.cache
+Z:\CDGS\CCS\obj\Debug\net9.0\CCS.dll
+Z:\CDGS\CCS\obj\Debug\net9.0\refint\CCS.dll
+Z:\CDGS\CCS\obj\Debug\net9.0\CCS.pdb
+Z:\CDGS\CCS\obj\Debug\net9.0\CCS.genruntimeconfig.cache
+Z:\CDGS\CCS\obj\Debug\net9.0\ref\CCS.dll
